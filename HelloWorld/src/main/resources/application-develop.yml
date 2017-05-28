@@ -1,0 +1,7 @@
+app:
+  value: Hello World!
+ 
+logging:
+  file: logs/myapp.log
+  level:
+    org.springframework.web: debug

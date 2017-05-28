@@ -1,0 +1,30 @@
+2017-05-28 10:54:04.995  INFO 22114 --- [main] hello.HelloWorldApplication              : Starting HelloWorldApplication on mba with PID 22114 (/Users/tseno26/Documents/workspace-sts/HelloWorld/target/classes started by tseno26 in /Users/tseno26/Documents/workspace-sts/HelloWorld)
+2017-05-28 10:54:05.001  INFO 22114 --- [main] hello.HelloWorldApplication              : The following profiles are active: develop
+2017-05-28 10:54:05.115  INFO 22114 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@708f5957: startup date [Sun May 28 10:54:05 JST 2017]; root of context hierarchy
+2017-05-28 10:54:06.074  INFO 22114 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-28 10:54:06.102  INFO 22114 --- [main] hello.HelloWorldApplication              : Started HelloWorldApplication in 1.569 seconds (JVM running for 2.427)
+2017-05-28 10:54:06.104  INFO 22114 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@708f5957: startup date [Sun May 28 10:54:05 JST 2017]; root of context hierarchy
+2017-05-28 10:54:06.107  INFO 22114 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-28 11:47:46.812  INFO 23325 --- [main] hello.HelloWorldApplication              : Starting HelloWorldApplication on mba with PID 23325 (/Users/tseno26/Documents/workspace-sts/HelloWorld/target/classes started by tseno26 in /Users/tseno26/Documents/workspace-sts/HelloWorld)
+2017-05-28 11:47:46.824  INFO 23325 --- [main] hello.HelloWorldApplication              : The following profiles are active: develop
+2017-05-28 11:47:47.074  INFO 23325 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@708f5957: startup date [Sun May 28 11:47:47 JST 2017]; root of context hierarchy
+2017-05-28 11:47:48.067  INFO 23325 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-28 11:47:48.089  INFO 23325 --- [main] hello.HelloWorldApplication              : Started HelloWorldApplication in 1.892 seconds (JVM running for 3.286)
+2017-05-28 11:47:48.092  INFO 23325 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@708f5957: startup date [Sun May 28 11:47:47 JST 2017]; root of context hierarchy
+2017-05-28 11:47:48.096  INFO 23325 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-28 11:52:30.755  INFO 23427 --- [main] hello.HelloWorldApplication              : Starting HelloWorldApplication on mba with PID 23427 (/Users/tseno26/Documents/workspace-sts/HelloWorld/target/classes started by tseno26 in /Users/tseno26/Documents/workspace-sts/HelloWorld)
+2017-05-28 11:52:30.759  INFO 23427 --- [main] hello.HelloWorldApplication              : The following profiles are active: develop
+2017-05-28 11:52:30.848  INFO 23427 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@708f5957: startup date [Sun May 28 11:52:30 JST 2017]; root of context hierarchy
+2017-05-28 11:52:31.724  INFO 23427 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-28 11:52:31.749  INFO 23427 --- [main] hello.HelloWorldApplication              : Started HelloWorldApplication in 1.63 seconds (JVM running for 2.558)
+2017-05-28 11:52:31.751  INFO 23427 --- [main] hello.Hello                              : Hello World!:Makoto
+2017-05-28 11:52:31.752  INFO 23427 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@708f5957: startup date [Sun May 28 11:52:30 JST 2017]; root of context hierarchy
+2017-05-28 11:52:31.757  INFO 23427 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-28 11:53:15.351  INFO 23474 --- [main] hello.HelloWorldApplication              : Starting HelloWorldApplication on mba with PID 23474 (/Users/tseno26/Documents/workspace-sts/HelloWorld/target/classes started by tseno26 in /Users/tseno26/Documents/workspace-sts/HelloWorld)
+2017-05-28 11:53:15.357  INFO 23474 --- [main] hello.HelloWorldApplication              : The following profiles are active: develop
+2017-05-28 11:53:15.426  INFO 23474 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@708f5957: startup date [Sun May 28 11:53:15 JST 2017]; root of context hierarchy
+2017-05-28 11:53:16.239  INFO 23474 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-28 11:53:16.264  INFO 23474 --- [main] hello.HelloWorldApplication              : Started HelloWorldApplication in 1.454 seconds (JVM running for 2.315)
+2017-05-28 11:53:16.267  INFO 23474 --- [main] hello.Hello                              : Hello World!:Makoto
+2017-05-28 11:53:16.268  INFO 23474 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@708f5957: startup date [Sun May 28 11:53:15 JST 2017]; root of context hierarchy
+2017-05-28 11:53:16.271  INFO 23474 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
